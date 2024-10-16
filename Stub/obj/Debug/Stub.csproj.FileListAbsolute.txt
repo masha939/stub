@@ -1,0 +1,8 @@
+C:\Users\mariaduzeva\source\repos\Stub\Stub\bin\Debug\Stub.exe.config
+C:\Users\mariaduzeva\source\repos\Stub\Stub\bin\Debug\Stub.exe
+C:\Users\mariaduzeva\source\repos\Stub\Stub\bin\Debug\Stub.pdb
+C:\Users\mariaduzeva\source\repos\Stub\Stub\obj\Debug\Stub.csproj.AssemblyReference.cache
+C:\Users\mariaduzeva\source\repos\Stub\Stub\obj\Debug\Stub.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariaduzeva\source\repos\Stub\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\mariaduzeva\source\repos\Stub\Stub\obj\Debug\Stub.exe
+C:\Users\mariaduzeva\source\repos\Stub\Stub\obj\Debug\Stub.pdb
